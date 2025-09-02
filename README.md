@@ -1,2 +1,1 @@
-# spaceship-titanic-0.81
-aggle Spaceship Titanic competition - feature engineering + ensemble (0.81)
+[README.md](https://github.com/user-attachments/files/22086713/README.md)
