@@ -11,8 +11,7 @@
 spaceship-titanic/
 ├─ train.csv              # 학습 데이터 (Kaggle 제공)
 ├─ test.csv               # 테스트 데이터 (Kaggle 제공)
-├─ sample_submission.csv  # 제출 형식 예시 (Kaggle 제공)
-├─ spaceship_titanic.ipynb  # 실험/분석 노트북
+├─ spaceship_titanic.py  # 실험/분석 노트북
 ├─ submission.csv         # 최종 제출 파일
 └─ README.md              # 프로젝트 설명 문서
 ```
@@ -22,7 +21,7 @@ spaceship-titanic/
 ## 📊 데이터
 - `train.csv` (8693 x 14, 타깃 `Transported` 포함)  
 - `test.csv`  (4277 x 13, 타깃 없음 — 제출용)  
-- `sample_submission.csv` (형식 예시)
+
 
 👉 Kaggle 대회 링크: [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic)
 
